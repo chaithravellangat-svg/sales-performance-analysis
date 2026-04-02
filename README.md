@@ -1,4 +1,6 @@
 📊 Sales Performance Analysis
+![Sales Dashboard](Sales.png)
+
 📌 Project Overview
 
 This project analyzes sales data to identify key business insights related to regional performance, product categories, customer behavior, and sales trends.
